@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @339821
+- 👋 Hi, I’m Atul
 - 👀 I’m interested in Web development  
 - 🌱 I’m currently learning back-end 
 - 💞️ I’m looking to collaborate on ...
